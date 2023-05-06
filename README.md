@@ -4,8 +4,6 @@ Caitlin Locke <br />
 Glaciology Final Project <br />
 Spring 2023 <br />
 
-## 1) Final Project Information
-
 ## Background and Motivation
 
 For our Shallow Ice Approximation model, we assumed a flat bed topography. In reality, ice sheets do not flow over a flat bed, but a varying bed topography. Beneath the Antarctic Ice Sheet, the bed topography is dynamic and geologically controlled.
